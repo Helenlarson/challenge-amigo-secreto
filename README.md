@@ -1,24 +1,24 @@
-# 🎁 Amigo Secreto
+## <p align="center"> Amigo Secreto </p>
 
 Este é um projeto interativo de **Amigo Secreto**, desenvolvido com **HTML, CSS e JavaScript** durante os cursos da Alura.
 Ele permite adicionar nomes à lista de participantes e sortear aleatoriamente um amigo secreto, garantindo que ninguém tire a si mesmo.  
 
-## 🚀 Funcionalidades  
+## <p align="center">Funcionalidades  </p>
 ✅ Adicionar nomes à lista de participantes  
 ✅ Exibir e atualizar a lista de amigos em tempo real  
 ✅ Sortear aleatoriamente um amigo secreto  
 ✅ Impedir que o usuário tire a si mesmo  
 ✅ Reiniciar o sorteio para uma nova rodada  
 
-## 🛠️ Tecnologias Utilizadas  
+## <p align="center">Tecnologias Utilizadas</p> 
 - **HTML5** → Estrutura do site  
 - **CSS3** → Estilização responsiva e personalizada  
 - **JavaScript (DOM Manipulation)** → Lógica de sorteio e atualização da lista  
 
-## 📂 Estrutura do Projeto  
+## <p align="center">Estrutura do Projeto</p> 
 /amigo-secreto ├── index.html # Página principal ├── style.css # Estilos do site ├── app.js # Lógica do sorteio e interatividade ├── /assets # Imagens e ícones
 
-## 📌 Como Usar  
+## <p align="center">Como Usar </p>
 1️⃣ **Abrir o projeto:**  
    - Faça o download do código ou clone o repositório:  
    - Abra o arquivo `index.html` no navegador.  
@@ -34,13 +34,17 @@ Ele permite adicionar nomes à lista de participantes e sortear aleatoriamente u
 4️⃣ **Reiniciar o Sorteio:**  
    - Clique no botão de **reiniciar**, e todos os nomes serão removidos para um novo sorteio.  
 
-## 🖼️ Demonstração do Projeto
+##  <p align="center">Demonstração do Projeto</p>
 
-![Demo](https://ezgif.com/resize/ezgif-5a4a0762c5a1f7.gif)
+![Demo](https://github.com/Helenlarson/challenge-amigo-secreto/blob/main/ezgif-5a4a0762c5a1f7.gif)
 
-## 🔗 Deploy  
+##  <p align="center">Deploy </p>
 Acesse o projeto online: **[Vercel Link Aqui](https://challenge-amigo-secreto-o59m.vercel.app/)**  
 
-## Desenvolvedora :octocat:
+## <p align="center">Desenvolvedora :octocat:  </p>
 
-<img src="https://avatars.githubusercontent.com/u/171495569?u=481fb51b78ad131c71a0afab3b6f5315af17c6a1&v=4" width="150" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/171495569?u=481fb51b78ad131c71a0afab3b6f5315af17c6a1&v=4" width="250"/>
+  <br>
+  <strong>Helen Larson</strong>
+</p>
