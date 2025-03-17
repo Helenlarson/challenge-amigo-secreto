@@ -34,13 +34,13 @@ Ele permite adicionar nomes à lista de participantes e sortear aleatoriamente u
 4️⃣ **Reiniciar o Sorteio:**  
    - Clique no botão de **reiniciar**, e todos os nomes serão removidos para um novo sorteio.  
 
-## 🖼️ Captura de Tela  
-![Demonstração do Projeto](https://github.com/seu-usuario/repositorio/imagem.gif)
+## 🖼️ Demonstração do Projeto
+
+![Demo](https://ezgif.com/resize/ezgif-5a4a0762c5a1f7.gif)
 
 ## 🔗 Deploy  
 Acesse o projeto online: **[Vercel Link Aqui](https://challenge-amigo-secreto-o59m.vercel.app/)**  
 
 ## Desenvolvedora :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/YOUR-GITHUB-ID?v=4" width="150"/><br><sub>Helen Larson</sub>](https://github.com/helenlarson) |   
-| :---: |
+<img src="https://avatars.githubusercontent.com/u/171495569?u=481fb51b78ad131c71a0afab3b6f5315af17c6a1&v=4" width="150" />
